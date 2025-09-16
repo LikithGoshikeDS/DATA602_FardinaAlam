@@ -1,2 +1,0 @@
-Why are you interested in taking DATA602?
-Because I want to gain a deeper understanding of advanced data analysis techniques and their practical applications, I am interested in enrolling in DATA602. I'm especially interested in learning how to manage complicated datasets, effectively use statistical and machine learning techniques, and obtain practical experience with tools that are frequently used in the field. I view this course as a chance to improve my ability to make data-driven decisions practically and get ready for increasingly difficult data science projects.
